@@ -11,5 +11,5 @@ export default defineConfig({
   },
   integrations: [react(), tailwind(), sitemap()],
   site: 'https://JERT2005.github.io',
-  base: '/docs'
+
 });
